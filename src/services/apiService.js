@@ -1,6 +1,6 @@
 const API_KEY = '7749c8f003816635839e15babc10c4f1'; 
-const BASE_URL = 'http://api.openweathermap.org/data/2.5/weather';
-const FORECAST_BASE_URL = 'http://api.openweathermap.org/data/2.5/forecast';
+const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
+const FORECAST_BASE_URL = 'https://api.openweathermap.org/data/2.5/forecast';
 
 
 function fetchWeatherData(cityName) {
